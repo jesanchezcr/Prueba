@@ -1,4 +1,4 @@
 # Prueba
 Probar funciones de IntelliJ
 Jenny Sánchez
-Mario
+Mario Andres Moreno Norato
